@@ -1,3 +1,2 @@
-layout: page
-title: "PAAAAAAAG"
-permalink: /real/
+<title>PAAAAAAAG</title>
+
